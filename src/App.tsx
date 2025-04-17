@@ -33,7 +33,7 @@ function App() {
             <a href="mailto:houssamqotbi@gmail.com" className="text-gray-500 hover:text-gray-900">
               <Mail className="h-5 w-5" />
             </a>
-            <a href="/Houssam_Qotbi_resume.pdf" download className="text-gray-500 hover:text-gray-900" title="Download CV">
+            <a href="Houssam_Qotbi_resume.pdf" download className="text-gray-500 hover:text-gray-900" title="Download CV">
               <Download className="h-5 w-5 mx-auto" />
             </a>
           </div>
